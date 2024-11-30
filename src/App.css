@@ -1,0 +1,21 @@
+.main__container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #e6e6e6;
+}
+
+.main__container > div {
+  padding: 0 40px;
+}
+
+.main__container > div > h1,
+.main__container > div > h2,
+.main__container > div > p {
+  margin-top: 10px;
+  text-align: center;
+}
