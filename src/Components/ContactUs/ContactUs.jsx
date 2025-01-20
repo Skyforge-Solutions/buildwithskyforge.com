@@ -1,7 +1,7 @@
 import React from "react";
 
 // Styles
-import "./ContactUs.css";
+import "./Contactus.css";
 
 const ContactUs = () => {
   return (
