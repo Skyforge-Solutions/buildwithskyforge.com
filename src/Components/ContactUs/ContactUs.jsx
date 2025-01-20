@@ -26,15 +26,34 @@ const ContactUs = () => {
           <h2 className="text-4xl font-semibold text-center w-full mb-10">
             Contact Us
           </h2>
-          <input type="text" placeholder="Name" className="w-full p-4 border border-gray-300 rounded-md" />
-          <input type="email" placeholder="Email" className="w-full mt-5 p-4 border border-gray-300 rounded-md" />
-          <input type="text" placeholder="Website" className="w-full mt-5 p-4 border border-gray-300 rounded-md" />
-          <textarea placeholder="Message" className="w-full mt-5 p-4 border border-gray-300 rounded-md" />
-        
-        <div className="flex w-full justify-between items-center">
-          <button className="bg-[#03A07A] text-white px-4 py-2 w-1/2 mr-2 rounded mt-5">Submit</button>
-          <button className="bg-[#03A07A] text-white flex items-center justify-center py-2 w-1/2 rounded mt-5">Download Brochure</button>
-        </div>
+          <input
+            type="text"
+            placeholder="Name"
+            className="w-full p-4 border border-gray-300 rounded-md"
+          />
+          <input
+            type="email"
+            placeholder="Email"
+            className="w-full mt-5 p-4 border border-gray-300 rounded-md"
+          />
+          <input
+            type="text"
+            placeholder="Website"
+            className="w-full mt-5 p-4 border border-gray-300 rounded-md"
+          />
+          <textarea
+            placeholder="Message"
+            className="w-full mt-5 p-4 border border-gray-300 rounded-md"
+          />
+
+          <div className="flex w-full justify-between items-center">
+            <button className="bg-[#03A07A] text-white px-4 py-2 w-1/2 mr-2 rounded mt-5">
+              Submit
+            </button>
+            <button className="bg-[#03A07A] text-white flex items-center justify-center py-2 w-1/2 rounded mt-5">
+              Download Brochure
+            </button>
+          </div>
         </div>
       </div>
     </div>

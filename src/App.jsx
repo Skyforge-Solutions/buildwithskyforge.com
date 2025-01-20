@@ -6,6 +6,7 @@ import Header from "./Components/Header/Header";
 import Hero from "./Components/Hero/Hero";
 import ContactUs from "./Components/ContactUs/ContactUs";
 import ServicesGrid from "./Components/ServicesGrid/ServicesGrid";
+import RekhtaSection from "./Components/Rekhta/Rekhta";
 
 function App() {
   return (
@@ -22,6 +23,9 @@ function App() {
 
       {/* Services Grid */}
       <ServicesGrid />
+
+      {/* Rekhta Section */}
+      <RekhtaSection />
     </main>
   );
 }
