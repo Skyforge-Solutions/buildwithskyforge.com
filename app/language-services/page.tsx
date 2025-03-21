@@ -23,7 +23,7 @@ export default function LanguageServicesPage() {
             <div className="mb-16">
               <h2 className="text-3xl font-bold mb-6">Our Language Expertise</h2>
               <p className="text-lg text-gray-700 mb-6">
-                We have partnered with <a href="https://www.rekhta.org" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">Rekhta Foundation</a> to provide their expertise in digitisation, indexing, data
+                We have partnered with <a href="https://www.rekhta.org" target="_blank" rel="noopener noreferrer" className="text-emerald-600 hover:underline">Rekhta Foundation</a> to provide their expertise in digitisation, indexing, data
                 collection, and large scale dataset curation for speech and textual data.
               </p>
             </div>
