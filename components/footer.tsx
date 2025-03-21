@@ -44,7 +44,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <Mail className="h-5 w-5 mr-2 mt-0.5 text-gray-400" />
-                <span>aashay@skyforge.com</span>
+                <span>info@buildwithskyforge.com</span>
               </li>
               <li className="flex items-start">
                 <Phone className="h-5 w-5 mr-2 mt-0.5 text-gray-400" />
