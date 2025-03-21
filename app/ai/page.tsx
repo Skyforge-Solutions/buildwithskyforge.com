@@ -25,7 +25,7 @@ export default function AIPage() {
                   In partnership with <a href="https://www.rekhta.org" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">Rekhta Foundation</a> and <a href="https://usefindr.com" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">Findr</a>, we are building multilingual Foundational Models for Indian languages.
               </p>
               <p className="text-lg text-gray-700 mb-6">
-                Through our platform, we provide state-of-the-art models for:
+                Through our platform, we aim to provide state-of-the-art models for:
               </p>
               <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-6 ml-4">
                 <li>Search and re-rank (SLMs)</li>
