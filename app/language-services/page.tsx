@@ -29,6 +29,16 @@ export default function LanguageServicesPage() {
             </div>
 
             <div className="mb-16">
+              <h2 className="text-3xl font-bold mb-6">Language Solutions</h2>
+              <div className="bg-gray-50 p-8 rounded-lg mb-8">
+                <p className="text-lg text-gray-700 mb-6">
+                  Translation, localization, transcription, and more for clients like UNESCO and DesiCrew Pvt. Ltd. 
+                  The Rekhta Foundation also has extensive experience in building <a href="https://rekhtadictionary.com/?wref=rweb" target="_blank" rel="noopener noreferrer" className="text-emerald-600 hover:underline">world-class dictionaries</a> for languages.
+                </p>
+              </div>
+            </div>
+
+            <div className="mb-16">
               <h2 className="text-3xl font-bold mb-6">Voice & Speech Data Solutions</h2>
               <div className="bg-gray-50 p-8 rounded-lg mb-8">
                 <p className="text-lg text-gray-700 mb-6">
@@ -65,14 +75,15 @@ export default function LanguageServicesPage() {
               </div>
             </div>
 
-            <div className="mb-16">
+            {/* <div className="mb-16">
               <h2 className="text-3xl font-bold mb-6">Language Solutions</h2>
               <div className="bg-gray-50 p-8 rounded-lg mb-8">
                 <p className="text-lg text-gray-700 mb-6">
-                  Translation, localization, transcription, and more for clients like UNESCO and DesiCrew Pvt. Ltd.
+                  Translation, localization, transcription, and more for clients like UNESCO and DesiCrew Pvt. Ltd. 
+                  The Rekhta Foundation also has extensive experience in building <a href="https://rekhtadictionary.com/?wref=rweb" target="_blank" rel="noopener noreferrer" className="text-emerald-600 hover:underline">world-class dictionaries</a> for languages.
                 </p>
               </div>
-            </div>
+            </div> */}
 
             <div className="mb-16">
               <h2 className="text-3xl font-bold mb-6">Digitization Services</h2>
