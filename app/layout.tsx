@@ -10,7 +10,9 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "SkyForge System Solutions",
   description: "Software consulting agency offering web development, app development, AI services, and more.",
-    generator: 'v0.dev'
+    icons: {
+      icon: '/favicon.ico',
+    },
 }
 
 export default function RootLayout({
