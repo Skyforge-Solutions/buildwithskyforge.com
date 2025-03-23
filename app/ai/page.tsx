@@ -72,7 +72,7 @@ export default function AIPage() {
                   </p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-lg">
-                  <h3 className="text-xl font-bold mb-2">OCR Vision Language Models (VLMs)</h3>
+                  <h3 className="text-xl font-bold mb-2">OCR Models (VLMs)</h3>
                   <p className="text-gray-700">
                     Our Vision Language Models excel at Optical Character Recognition for Indian languages, helping
                     digitize historical texts and documents.
